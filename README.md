@@ -1,5 +1,5 @@
 # dados_covid
-este é um programa que baixa, filtra e analisa os dados do COVID e compara esses dados.
+Este é um programa que baixa, filtra e analisa os dados do COVID e compara esses dados.
 
 A analise que tal programa faz é gerar 3 gráficos comparativos dos dados do Brasil em relação a outros 4 Países sendo eles da América do Norte ou do Sul.
 
